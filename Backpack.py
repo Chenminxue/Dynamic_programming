@@ -1,9 +1,9 @@
 """
 basic info:
-    stereo:    3000, 4
-    computer:  2000, 3
-    flute:     1500, 1
-    phone:     2000, 1
+    stereo:    $3000, 4kg
+    computer:  $2000, 3kg
+    flute:     $1500, 1kg
+    phone:     $2000, 1kg
     You can add new items as you want.
 """
 
